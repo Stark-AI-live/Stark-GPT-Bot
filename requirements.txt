@@ -1,0 +1,5 @@
+motor
+starkchat
+requests
+pytz
+pyrogram==1.4.16
