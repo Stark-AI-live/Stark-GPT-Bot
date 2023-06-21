@@ -25,7 +25,7 @@ To set up the chatbot, follow these steps:
 
 1. Clone or download the repository to your local machine.
 2. Install the required dependencies by running `pip3 install -r requirements.txt`.
-3. Open the `config.py` file and replace the following placeholders with the corresponding values obtained in the prerequisites section:
+3. Open the `app.py` file and replace the following placeholders with the corresponding values obtained in the prerequisites section:
     - `API_ID`: Your Telegram API ID.
     - `API_HASH`: Your Telegram API Hash.
     - `API_KEY`: Your StarkGPT API Key.
