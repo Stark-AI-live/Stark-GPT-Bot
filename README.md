@@ -45,4 +45,4 @@ The source code in this repository is licensed under the [MIT License](LICENSE).
 
 ## Copyright
 
-&copy; [2023 StarkAi](StarkAi.live). All rights reserved. The StarkAi.live brand and logo are the property of [StarkAi].
+&copy; [2023 StarkAi](StarkAi.live). All rights reserved. The StarkAi.live brand and logo are the property of [StarkAi](starkai.live).
